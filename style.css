@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+    margin: 0;
+    font-family: "Merriweather" serif;
+    
+}
+
+
+.pro {
+  text-decoration: underline;
+  color: yellow;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 2rem;
+}
+
+h1{
+    color: goldenrod;
+    font-size: 4rem;
+    margin: 50px auto 50px;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: baseline;
+    justify-content: right;
+}
+
+.intro{
+    font-size: larger;
+    color: blue;
+}
+
+.middle-container{
+    background-color: darkgoldenrod;
+}
+
